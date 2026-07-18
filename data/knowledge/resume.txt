@@ -1,0 +1,11 @@
+Candidate: Maya Thompson
+Role: Senior Data Analyst
+Experience:
+- 7 years in BI and forecasting
+- Built a revenue dashboard for a logistics firm
+- Led migration from Excel-based reporting to a Snowflake pipeline
+Skills:
+Python, SQL, dbt, Power BI, stakeholder communication
+Availability: Immediate
+Reference note:
+Maya is a strong fit for roles involving analytics modernization and cross-functional communication.

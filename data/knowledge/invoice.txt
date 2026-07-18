@@ -1,0 +1,10 @@
+Invoice #INV-2048
+Vendor: Northwind Data Services
+Date: 2026-04-10
+Total: $2,480.00
+Status: Paid
+Line items:
+- Managed analytics platform: $1,940.00
+- Support retention: $540.00
+Notes:
+The customer requested quarterly reporting for March and April. The account owner is Dana Lewis.

@@ -1,0 +1,10 @@
+Support ticket #ST-882
+Customer: Harbor Logistics
+Priority: High
+Issue: The dashboard stopped refreshing after the nightly data import.
+Steps taken:
+- Verified permissions on the warehouse connector.
+- Restarted the ingestion job.
+- Confirmed the export path was missing a trailing slash.
+Resolution: Updated the path and reran the import. The dashboard became healthy again.
+Owner: Omar Patel
