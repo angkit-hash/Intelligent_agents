@@ -42,7 +42,7 @@ Retrieval uses **Chroma** with open-source sentence embeddings (`all-MiniLM-L6-v
 Two thresholds control how cautious the agent is:
 
 - `MATCH_CONFIDENCE_THRESHOLD` (default `0.15`) — the floor the best match must clear before the agent will attempt an answer at all. Below this, the question is flagged for human review.
-- `CITATION_RELATIVE_THRESHOLD` (default `0.6`) — once the agent decides to answer, only documents scoring within this fraction of the _best_ match are actually cited. This keeps a tangentially related result (e.g. an onboarding-timeline answer that happens to mention "SSO" in passing) from being cited alongside the real match just because it rode along in the same retrieval batch.
+- `CITATION_RELATIVE_THRESHOLD` (default `0.6`) — once the agent decides to answer, only documents scoring within this fraction of the *best* match are actually cited. This keeps a tangentially related result (e.g. an onboarding-timeline answer that happens to mention "SSO" in passing) from being cited alongside the real match just because it rode along in the same retrieval batch.
 
 For security and compliance questions, a confidently wrong answer is worse than an honest "I don't know" — so the agent is built to know when to stay quiet.
 
@@ -109,6 +109,6 @@ Add a `.txt` file to `data/knowledge/` structured like the samples, with `Questi
 - Swap in a hosted LLM provider as an optional, higher-quality generation backend
 - Add a review queue / feedback loop so SME corrections become new knowledge-base entries
 
-## Workflow
+## License
 
-![alt text](rfp_agent_workflow.png)
+No license specified yet — add one (e.g. MIT) if you intend for others to reuse this code.

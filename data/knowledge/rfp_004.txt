@@ -1,0 +1,5 @@
+Question ID: RFP-072
+Category: Security & Access Control
+Deal: Vantage Financial (Won, $420k ARR)
+Question: How is customer data encrypted, both in transit and at rest?
+Answer: All data in transit is encrypted using TLS 1.2 or higher. Data at rest is encrypted using AES-256, with encryption keys managed via AWS KMS. Enterprise customers may optionally bring their own encryption keys (BYOK) for additional control.

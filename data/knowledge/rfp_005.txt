@@ -1,0 +1,5 @@
+Question ID: RFP-089
+Category: Implementation & Support
+Deal: Bright Retail Group (Won, $140k ARR)
+Question: What does the onboarding and implementation timeline typically look like?
+Answer: Standard onboarding takes 2-4 weeks and includes a dedicated implementation manager, SSO/API configuration, data migration support, and admin training sessions. A named Customer Success Manager continues post-launch, with quarterly business reviews for Enterprise accounts.

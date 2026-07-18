@@ -1,0 +1,5 @@
+Question ID: RFP-041
+Category: Security & Access Control
+Deal: Acme Corp (Won, $180k ARR)
+Question: Do you support SSO and SAML-based authentication for enterprise customers?
+Answer: Yes. We support Single Sign-On via SAML 2.0 and OpenID Connect, with pre-built integrations for Okta, Azure AD, and Google Workspace. SCIM-based automated user provisioning and deprovisioning is available on Enterprise plans, and SSO can be enforced org-wide to prevent password-based login.

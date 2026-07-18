@@ -1,0 +1,5 @@
+Question ID: RFP-057
+Category: Data Privacy & Compliance
+Deal: Meridian Health (Won, $310k ARR)
+Question: Where is customer data stored, and are you compliant with GDPR and data residency requirements?
+Answer: Customer data is stored in AWS regions within the customer's chosen geography (US, EU, or APAC), and we do not transfer EU customer data outside the EU by default. We are GDPR compliant, offer a signed Data Processing Addendum (DPA), and support data subject access and deletion requests within 30 days per Article 12.

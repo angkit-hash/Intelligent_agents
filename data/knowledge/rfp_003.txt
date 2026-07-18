@@ -1,0 +1,5 @@
+Question ID: RFP-063
+Category: Reliability & SLA
+Deal: Northwind Logistics (Won, $95k ARR)
+Question: What uptime SLA do you guarantee, and what happens if you fail to meet it?
+Answer: We guarantee 99.9% uptime measured monthly on Enterprise plans, backed by a public status page with historical incident history. If uptime falls below the guaranteed threshold, customers receive service credits on a sliding scale, up to 30% of that month's fees for uptime below 99.0%.
