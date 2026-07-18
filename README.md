@@ -83,9 +83,7 @@ Drop additional files into `data/knowledge/` and re-run the ingestion step (see 
 ## Roadmap ideas
 
 - Swap in a hosted LLM provider as an optional backend
-- Add automated evaluation of retrieval/rerank quality
-- Support additional document formats beyond the current sample set
 
-## License
+## Workflow
 
-No license specified yet — add one (e.g. MIT) if you intend for others to reuse this code.
+![alt text](rfp_agent_workflow.png)
